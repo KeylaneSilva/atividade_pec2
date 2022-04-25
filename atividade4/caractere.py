@@ -1,3 +1,3 @@
-nome = str(input())
+nome = input()
 tamNome = len(nome.replace(" ", ""))
 print(tamNome)
