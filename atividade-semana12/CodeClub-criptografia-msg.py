@@ -1,4 +1,5 @@
 def cryptMessage(key, msg):
+    
     message = ""
     alfabeto = "abcdefghijklmnopqrstuvwxyz"
     for letra in msg:
