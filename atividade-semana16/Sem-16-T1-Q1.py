@@ -17,5 +17,3 @@ for codigo in livros:
     print(f'ISBN: {livros[codigo][1]}')
     print(f'Autor: {livros[codigo][2]}')
     print(f'Preço: {livros[codigo][3]:.2f}')
-
-keylane
